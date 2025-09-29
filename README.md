@@ -5,4 +5,4 @@ Custom added different types of noise, restored it, and calculated 7 different m
 
 Restoration using google gemini 2.5 flash preview
 
-![output](nanobananasampleoutput.jpeg)
+![output](nanobananasampleoutput.png)
